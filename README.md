@@ -22,8 +22,8 @@ Se ainda nao tem, baixe e instale: https://betterdiscord.app/
 ### 2. Baixar os plugins
 Clique no link do plugin que quer instalar:
 
-- **[GlobalSearch.plugin.js](https://raw.githubusercontent.com/rapha30/bd-plugins/main/GlobalSearch.plugin.js)** (clique com botao direito > "Salvar link como...")
-- **[ServerActivity.plugin.js](https://raw.githubusercontent.com/rapha30/bd-plugins/main/ServerActivity.plugin.js)** (clique com botao direito > "Salvar link como...")
+- **[GlobalSearch.plugin.js](https://raw.githubusercontent.com/rapha30/bd-plugins/master/GlobalSearch.plugin.js)** (clique com botao direito > "Salvar link como...")
+- **[ServerActivity.plugin.js](https://raw.githubusercontent.com/rapha30/bd-plugins/master/ServerActivity.plugin.js)** (clique com botao direito > "Salvar link como...")
 
 ### 3. Colocar na pasta de plugins
 Mova o arquivo `.plugin.js` para a pasta de plugins do BetterDiscord:

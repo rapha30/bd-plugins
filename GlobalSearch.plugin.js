@@ -4,7 +4,7 @@
  * @description Busca mensagens em todos os servidores (ou servidores selecionados) de uma vez. Resultados ordenados do mais recente ao mais antigo.
  * @version 1.0.0
  * @source https://github.com/rapha30/bd-plugins
- * @updateUrl https://raw.githubusercontent.com/rapha30/bd-plugins/main/GlobalSearch.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/rapha30/bd-plugins/master/GlobalSearch.plugin.js
  */
 
 module.exports = class GlobalSearch {
